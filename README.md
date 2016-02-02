@@ -4,18 +4,19 @@ Jupyter Examples
 
 # Widgets
 
-- ipywidgets
+- [ipywidgets](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/ipywidgets.ipynb)
 
 # Visualisation tools
 
-- seaborn
-- bokeh
-- lightning
+- [seaborn](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/seaborn.ipynb)
+- [bokeh](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/bokeh.ipynb)
+- [lightning](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/lightning.ipynb)
 
 # Network
 
-- networkx
+- [networkx](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/networkx.ipynb)
 
 # Graphics
 
-- opencv
+- [opencv](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/opencv.ipynb)
+
