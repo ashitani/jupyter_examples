@@ -12,11 +12,18 @@ Jupyter Examples
 - [bokeh](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/bokeh.ipynb)
 - [lightning](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/lightning.ipynb)
 
-# Network
+# Network Graph
 
 - [networkx](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/networkx.ipynb)
 
-# Graphics
+# Computer Vision
 
 - [opencv](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/opencv.ipynb)
 
+# Symbolic Math
+
+- [sympy](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/sympy.ipynb)
+
+# Deep Learning
+
+- [chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer.ipynb)
