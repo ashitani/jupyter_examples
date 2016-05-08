@@ -27,5 +27,6 @@ Jupyter Examples
 ## Deep Learning
 
 - [chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer.ipynb)
+- [MNIST by chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer_mnist.ipynb)
 - [TensorFlow](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/tensorflow.ipynb)
 - [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
