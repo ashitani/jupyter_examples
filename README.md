@@ -28,3 +28,4 @@ Jupyter Examples
 
 - [chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer.ipynb)
 - [TensorFlow](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/tensorflow.ipynb)
+- [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
