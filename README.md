@@ -28,5 +28,7 @@ Jupyter Examples
 
 - [chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer.ipynb)
 - [MNIST by chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer_mnist.ipynb)
+- [MNIST by chainer(trainer)](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer_mnist_1.13.ipynb)
 - [TensorFlow](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/tensorflow.ipynb)
 - [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
+- [Keras](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/keras_mnist.ipynb)
