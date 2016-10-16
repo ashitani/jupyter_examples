@@ -35,4 +35,4 @@ Jupyter Examples
 
 ## 3D Graphics
 
-- [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blnder.ipynb)
+- [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blender.ipynb)
