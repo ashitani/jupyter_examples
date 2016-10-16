@@ -32,3 +32,7 @@ Jupyter Examples
 - [TensorFlow](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/tensorflow.ipynb)
 - [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
 - [Keras](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Keras_mnist.ipynb)
+
+## 3D Graphics
+
+- [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blnder.ipynb)
