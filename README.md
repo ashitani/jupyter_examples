@@ -24,7 +24,7 @@ Jupyter Examples
 
 - [sympy](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/sympy.ipynb)
 
-## Deep Learning
+## Deep Learning / Machine Learning
 
 - [chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer.ipynb)
 - [MNIST by chainer](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/chainer_mnist.ipynb)
@@ -32,6 +32,8 @@ Jupyter Examples
 - [TensorFlow](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/tensorflow.ipynb)
 - [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
 - [Keras](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Keras_mnist.ipynb)
+- [scikit-learn](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/scikit-learn.ipynb)
+- [NNabla](https://github.com/ashitani/jupyter_examples/blob/master/NNabla_first.ipynb)
 
 ## 3D Graphics
 
