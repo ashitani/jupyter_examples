@@ -33,8 +33,8 @@ Jupyter Examples
 - [Theano](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Theano.ipynb)
 - [Keras](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/Keras_mnist.ipynb)
 - [scikit-learn](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/scikit-learn.ipynb)
-- [NNabla](https://github.com/ashitani/jupyter_examples/blob/master/NNabla_first.ipynb)
-- [pytorch](https://github.com/ashitani/jupyter_examples/blob/master/pytorch.ipynb)
+- [NNabla](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/NNabla_first.ipynb)
+- [pytorch](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/pytorch.ipynb)
 
 ## 3D Graphics
 
