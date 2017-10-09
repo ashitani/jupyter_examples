@@ -35,6 +35,7 @@ Jupyter Examples
 - [scikit-learn](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/scikit-learn.ipynb)
 - [NNabla](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/NNabla_first.ipynb)
 - [pytorch](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/pytorch.ipynb)
+- [MXNet](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/MXNet.ipynb)
 
 ## 3D Graphics
 
