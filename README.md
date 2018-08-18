@@ -24,7 +24,7 @@ Jupyter Examples
 
 - [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blender.ipynb)
 - [Open3D](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/open3d.ipynb)
-- [python-pcl](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/pythonpcl.ipynb)
+- [python-pcl](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/python-pcl.ipynb)
 
 ## Symbolic Math
 
