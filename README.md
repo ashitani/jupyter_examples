@@ -20,6 +20,12 @@ Jupyter Examples
 
 - [opencv](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/opencv.ipynb)
 
+## 3D Graphics
+
+- [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blender.ipynb)
+- [Open3D](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/open3d.ipynb)
+- [python-pcl](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/pythonpcl.ipynb)
+
 ## Symbolic Math
 
 - [sympy](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/sympy.ipynb)
@@ -37,6 +43,3 @@ Jupyter Examples
 - [pytorch](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/pytorch.ipynb)
 - [MXNet](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/MXNet.ipynb)
 
-## 3D Graphics
-
-- [blender](http://nbviewer.jupyter.org/github/ashitani/jupyter_examples/blob/master/blender.ipynb)
